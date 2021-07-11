@@ -1,6 +1,6 @@
 import { render } from "react-dom";
 import "./index.css"
-import App from "./app";
+import App from "./components/app";
 
 const app = <App />;
 const here = document.querySelector("#here");
